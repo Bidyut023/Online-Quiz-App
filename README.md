@@ -29,7 +29,6 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/quiz-app.git
 Navigate to the Project Folder
 
 bash
